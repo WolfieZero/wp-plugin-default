@@ -6,7 +6,7 @@
  *
  * @package     WordPress
  * @subpackage  Plugin: ...
- * @author      Neil Sweeney <neil.sweeney@fubra.com>
+ * @author      Neil Sweeney <neil@wolfiezero.com>
  * @license     GPL-2.0+
  *
  * ----------------------------------------------------------------------------
